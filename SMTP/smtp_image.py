@@ -15,7 +15,7 @@ image_cid = "homo.png"
 
 # Sender and receiver
 fromaddress = "13625180036@163.com"
-toaddress = "2307068939@qq.com"
+toaddress = "2585510998@qq.com"
 
 for i in range(1):
     # SMTP服务器地址和端口
